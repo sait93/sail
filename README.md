@@ -1,1 +1,2 @@
 # sail
+Print("hi")
